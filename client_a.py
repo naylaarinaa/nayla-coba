@@ -1,7 +1,7 @@
 import socket
 import des
 import rsa
-
+# cekkk
 def register_with_pka(identifier, public_key):
     host = socket.gethostname()
     port = 6060
